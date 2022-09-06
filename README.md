@@ -1,2 +1,2 @@
 # syllabus
-résumer  en groupe d'une page du syllabus
+résumé en groupe d'une page du syllabus
